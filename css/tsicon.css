@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'tsicon';
+  src:  url('../fonts/tsicon.eot?ctej6w');
+  src:  url('../fonts/tsicon.eot?ctej6w#iefix') format('embedded-opentype'),
+    url('../fonts/tsicon.ttf?ctej6w') format('truetype'),
+    url('../fonts/tsicon.woff?ctej6w') format('woff'),
+    url('../fonts/tsicon.svg?ctej6w#tsicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ts-"], [class*=" ts-"] {  
+  font-family: 'tsicon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ts-ts-right-arrow-icon:before {
+  content: "\e900";
+}
+.ts-ts-chat-support-icon:before {
+  content: "\e905";
+}
+.ts-ts-delivery-truck-icon:before {
+  content: "\e906";
+}
+.ts-ts-product-label-icon:before {
+  content: "\e907";
+}
+.ts-ts-wallet-icn:before {
+  content: "\e908";
+}
+.ts-down-arrow-icon:before {
+  content: "\e901";
+}
+.ts-mouse-icon:before {
+  content: "\e902";
+}
+.ts-plus-icon:before {
+  content: "\e903";
+}
+.ts-right-long-arrow-icon:before {
+  content: "\e904";
+}

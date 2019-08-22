@@ -1,0 +1,419 @@
+
+@media screen and (max-width:1920px) {
+}
+
+@media screen and (max-width:1768px) {
+    .get-started-sec .cmn-p-sec {
+    padding-top: 30px;
+}
+}
+
+@media screen and (max-width:1680px) {
+    
+
+.get-started-sec .btm-bdr-h h2 br{display: none;}
+.get-started-sec .btm-bdr-h h2{ font-size: 42px;}
+.get-started-sec .cmn-p-sec strong, .get-started-sec .cmn-p-sec p{font-size: 30px;}
+.get-started-sec .cmn-btn{font-size: 28px;margin-bottom: 15px;}
+    
+}
+
+@media screen and (max-width:1440px) {
+.container{width: 100%;}
+.full-width-c .container-fluid{ padding: 0 15px}
+}
+
+@media screen and (max-width:1439px) {
+    
+.banner-head h1{font-size: 92px;line-height: 100px;}
+.cmn-p-sec p{font-size: 26px;}
+.btm-bdr-h h2, .get-started-sec .btm-bdr-h h2{font-size: 39px;}
+.h-bg-bx{    width: 600px;}
+.h-bg-bx h3{font-size: 28px;    line-height: 48px;    padding: 28px 32px;}
+.cmn-p-sec strong{    font-size: 28px;}
+.get-started-sec .cmn-p-sec strong, .get-started-sec .cmn-p-sec p { font-size: 26px;}
+.get-started-sec .cmn-btn {  font-size: 26px;  margin-bottom: 15px;}
+    
+}
+
+@media screen and (max-width:1290px) {
+    
+    .h-bg-bx {
+    width: 540px;
+}
+    .h-bg-bx h3 {
+    font-size: 28px;
+    line-height: 40px;
+    padding: 28px 32px;
+}
+    .get-started-sec .cmn-p-sec {
+    padding-top: 0;
+}
+    .get-started-sec .cmn-btn {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+    .cmn-p-sec.b-c-rit-sec p br{display: none;}
+}
+
+@media screen and (max-width:1169px) {
+.banner-head h1 {
+    font-size: 70px;
+    line-height: 100px;
+}
+   .top-head strong {
+    width: 70%;
+    padding-right: 15px;
+}
+.google-search {float:right;width: 100%;}
+.top-head strong {padding-top: 10px;}
+.top-head strong span, .top-head strong span a, footer strong span a{font-size: 30px;}
+.top-head strong img, footer strong img{height: 38px; width: 38px;}
+.banner-head h1{padding-bottom: 50px; line-height: 80px;}
+.cmn-p-sec strong {
+    font-size: 24px;
+}
+    .cmn-p-sec p {
+    font-size: 24px;
+    line-height: 32px;
+}
+ .btm-bdr-h h2, .get-started-sec .btm-bdr-h h2 {
+    line-height: 48px;
+}
+    .b-c-rit-sec .cmn-btn {
+    width: 470px;
+    padding: 22px;
+    font-size: 36px;
+    letter-spacing: 4px;
+    margin-top: 15px;
+}
+    .cmn-p-sec.b-c-rit-sec {
+    padding-left: 20px;
+}
+    .social-logo-list .cmn-ul-list li figure img{height: 60px;} 
+    .b-c-rit-sec .cmn-btn, .cmn-p-sec.f-b-c .cmn-ul-list li .cmn-btn {
+    width: auto;
+    font-size: 30px;
+    letter-spacing: initial;
+    padding: 15px 20px;
+}
+    .h-bg-bx {width: 460px;}
+    .h-bg-bx h3 {font-size: 22px; line-height: 35px;padding: 26px 30px;}
+    .get-started-sec .cmn-btn {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+    .get-started-sec .cmn-p-sec strong, .get-started-sec .cmn-p-sec p {
+    font-size: 22px;
+    line-height: 32px;
+}
+    
+    footer {
+    padding: 36px 0;
+    text-align: center;
+}
+    .c-logo-list li figure figcaption{font-size: 14px;}
+    .c-logo-list li figure img {
+    max-height: 70px;
+}
+    .cmn-p-sec strong {
+    font-size: 24px;
+    line-height: 32px;
+}
+   
+}
+
+
+@media screen and (max-width:991px) {
+    .banner-head h1{ font-size: 60px;}
+    .top-head strong span,.top-head strong span a, footer strong span a{
+    font-size: 26px;
+}
+    .top-head strong img, footer strong img {
+    height: 32px;
+    width: 32px;
+    margin-right: 5px;
+}
+     .banner-head h1 {
+    padding-bottom: 30px;
+    line-height: 68px;
+}
+    .cmn-p-sec.b-c-rit-sec {
+    padding-left: 0;
+}
+    .cmn-p-sec p {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+    .btm-bdr-h{margin-bottom: 15px}
+    .new-customer-process {
+    padding: 40px 0;
+}
+    .h-bg-bx {
+    width: 360px;
+}
+.h-bg-bx h3 {
+    font-size: 18px;
+    line-height: 27px;
+    padding: 20px 25px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    width: 100%;
+    display: inline-block;
+}
+   
+    .cmn-p-sec strong {
+    font-size: 18px;
+    line-height: 28px;
+}
+    .padding-t-b {
+    padding: 40px 0;
+}
+    .testimonials-sec .btm-bdr-h.btm-bdr-h-c {
+    margin-bottom: 40px;
+}
+    figure.g-rit-img {
+    padding-top: 50px;
+    text-align: center;
+}
+    .btm-bdr-h h2 br{display: none;}
+    .happy-customers-sec .btm-bdr-h.btm-bdr-h-c {
+    margin-bottom: 30px;
+}
+    .c-logo-list li figure img {
+    max-height: 50px;
+}
+    .c-logo-list .cmn-ul-list li{min-height: 130px;border: 0;}
+    .get-started-sec .cmn-p-sec strong, .get-started-sec .cmn-p-sec p {
+    font-size: 18px;
+    line-height: 28px;
+}
+    .get-started-sec .cmn-btn {
+    font-size: 16px;
+    margin-bottom: 15px;
+    padding: 13px 17px;
+}
+    .desktop-steps-img{display: none;}
+    .p-s-list-outer{display: block;}
+.h-bg-bx {
+    width: 100%;
+    position: initial;
+    margin-bottom: 0;
+    background-image: none;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+    .process-g-sec {
+    position: relative;
+    padding-bottom: 0;
+    margin-top: 0;
+}
+        .c-logo-list .cmn-ul-list li{    min-height: initial;
+    width: auto;}
+    .c-logo-list .cmn-ul-list li figure {
+    display: table-cell;
+    vertical-align: middle;
+    height: auto;
+    padding: 0;
+}
+    
+    
+}
+
+@media screen and (max-width:800px) {
+}
+
+@media screen and (max-width: 767px) {
+.google-search {
+    float: right;
+    width: 100%;
+    margin-top: 18px;
+}
+    .top-head strong {
+    width: 70%;
+    padding-right: 0;
+    float: right;
+}
+    .logo {
+    width: 30%;
+}
+    header.sticky .google-search{display: none;}
+
+.banner-head h1 {
+    font-size: 48px;
+    line-height: 54px;
+    text-align: left;
+    letter-spacing: -3px;
+}
+    figure.sales-img {
+    text-align: center;
+        margin-bottom: 15px;
+}
+    .banner-slider {
+    background-image: none;
+    background-color: #F5F5F5;
+   padding-bottom: 0;
+}
+.b-c-rit-sec .cmn-btn, .cmn-p-sec.f-b-c .cmn-ul-list li .cmn-btn {
+    width: auto;
+    padding: 15px 18px;
+    font-size: 24px;
+}
+    .social-logo-list .cmn-ul-list li figure img {
+    height: 46px;
+}
+    .social-logo-list {
+    padding-bottom: 40px;
+    padding-top: 0;
+}
+    .process-g-sec {
+    position: relative;
+    padding-bottom: 60px;
+    margin-top: 34px;
+}
+
+
+.process-g-sec {position: relative;padding-bottom: 60px;margin-top: 0;}
+.process-g-sec {position:relative;padding-bottom: 32px;}
+figure.sales-img{display: none;}
+.get-started-sec{padding-bottom: 30px;}
+footer strong{margin-bottom: 18px; font-size: 18px;line-height: 28px;}
+
+figure.g-rit-img {padding-top: 0;text-align: center;}
+.b-c-rit-sec .cmn-btn {width: auto;padding: 15px 21px; font-size: 26px;}
+section.banner-slider.thank-you-page{margin-bottom: 0;} 
+.p-in-c strong{font-size: 24px;}  
+.step-bx figure img{height: 120px;}
+    
+ section.banner-slider.thank-you-page .banner-content {
+    text-align: center;
+    padding: 50px 0 0 0;
+}
+    
+}
+
+@media screen and (max-width:639px) {
+    .banner-head h1 {
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: -2px;
+}
+   .social-logo-list  .cmn-ul-list li{padding-bottom: 30px;}
+
+
+    .h-bg-bx h3 {
+    font-size: 19px;
+    line-height: 27px;
+    padding: 25px 40px;
+    display: inline-block;
+}
+    .cmn-p-sec strong br, .new-customer-process .cmn-p-sec span br{display:none;}
+    figure.g-rit-img {
+    padding-top: 0;
+    text-align: center;
+}
+    .padding-t-b {
+    padding: 30px 0;
+}
+
+    .btm-bdr-h h2, .get-started-sec .btm-bdr-h h2 {
+    font-size: 24px;
+    line-height: 32px;
+}
+    
+.b-c-rit-sec .cmn-btn { width: auto; padding: 15px 20px; font-size: 22px;}
+.social-logo-list { padding-bottom: 15px; padding-top: 0;} 
+.p-s-list-outer .cmn-ul-list li { width: 100%;}    
+.cmn-p-sec.f-b-c .cmn-ul-list{margin-left: -5px;margin-right: -5px;}
+.cmn-p-sec.f-b-c .cmn-ul-list li{padding-left:5px; padding-right:5px;}
+.b-c-rit-sec .cmn-btn, .cmn-p-sec.f-b-c .cmn-ul-list li .cmn-btn {
+    width: auto;
+    padding: 12px 15px;
+    font-size: 18px;
+}
+    .f-b-c {
+    text-align: center;
+    width: 100%;
+    margin: 10px auto 50px auto;
+}
+    .competitors-sec .control-label {
+    font-size: 22px;
+}
+    .btm-bdr-h {
+    margin-bottom: 0;
+}
+
+}
+
+
+@media screen and (max-width:479px) {
+.top-head {
+    margin-top: 10px;
+    margin-bottom: 0;
+    display: inline-block;
+    width: 100%;
+}
+.top-head strong span, .top-head strong span a, footer strong span a {  font-size: 18px;    letter-spacing: 0;}
+.top-head strong img,footer strong img {  height: 20px;  width: 20px;  margin-right: 1px;  top: -4px;}
+.google-search { float: right; width: 100%;  margin-top: 0;  margin-top: 20px}
+.banner-head h1 {font-size: 32px;line-height: 36px;letter-spacing: 0;} 
+.cmn-p-sec strong {
+    font-size: 16px;
+    line-height: 22px;
+}
+    .cmn-p-sec p {
+    font-size: 16px;
+    line-height: 22px;
+}
+    .b-c-rit-sec .cmn-btn {
+    width: auto;
+    padding: 12px 20px;
+    font-size: 22px;
+}
+    .social-logo-list {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+    .btm-bdr-h h2, .get-started-sec .btm-bdr-h h2 {
+    font-size: 20px;
+    line-height: 28px;
+}
+    .h-bg-bx h3 {
+    font-size: 16px;
+    line-height: 27px;
+    padding: 16px 28px;
+    display: inline-block;
+}
+
+footer strong {margin-bottom: 18px;font-size: 15px;line-height: 24px;}
+footer p{font-size: 14px;}
+.get-started-sec .cmn-btn br{display: block;}
+.logo img {height: auto;} 
+header.sticky{padding-bottom: 5px;}
+.top-head strong { padding-top: 7px;}
+section.banner-slider.thank-you-page figure.sales-img img{height: 100px;width: 100px;}
+.apply-for-btn {text-align: center;}
+.google-search .card-body .form-control{padding-left: 15px;font-size: 18px;height: 60px;padding-right: 50px;}
+ .competitors-sec .control-label {
+    font-size: 18px;
+}   
+.google-search .card-body .btn img {
+    width: 30px;
+    height: 30px;
+}
+   .banner-slider {
+    padding-top: 80px;
+} 
+    .google-search .card-body .btn{height: 30px;}
+    
+}
+
+@media screen and (max-width:359px) {
+    .banner-slider {
+    padding-top: 70px;
+}
+}
+
+@media screen and (max-width:319px) {
+}
